@@ -1,0 +1,12 @@
+#Basic
+node_modules
+
+# Parcel
+.parcel-cache/
+dist/
+
+# VSCode settings
+.vscode/
+
+# Environment variables
+.env
