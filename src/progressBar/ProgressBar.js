@@ -19,6 +19,8 @@ const MutipleProgressBar = ({percentage}) => {
             style={{
                 // width: `${percentage}%`,
                 transform: `translateX(${active - 100}%)`,
+                transition: "0.5s ease-in"
+
 
                 }}>
                 {percentage}%
