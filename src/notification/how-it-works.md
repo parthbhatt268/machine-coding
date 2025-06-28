@@ -1,4 +1,4 @@
-# Notification System Flow
+# Notification System Flow (Its called as Static CLASS pattern)
 
 1. **App.js**  
    You render `<ToastContainer />` once in your root.
